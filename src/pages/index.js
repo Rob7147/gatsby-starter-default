@@ -93,7 +93,8 @@ const IndexPage = () => (
           </React.Fragment>
         ))}
         <br />
-        Edit <code>src/pages/index.js</code> to update this page. TEST
+        Edit <code>src/pages/index.js</code> to update this page. TEST.
+        More testing. This is just a test.
       </p>
     </div>
     <ul className={styles.list}>
